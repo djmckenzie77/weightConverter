@@ -1,2 +1,0 @@
-# weightConverter
-Created with CodeSandbox
